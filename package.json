@@ -1,0 +1,13 @@
+{
+  "name": "kiss",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "latest",
+    "mongodb": "^2.2.5",
+    "express-jwt": "^3.4.0",
+    "validate.js": "^0.10.0"
+  },
+  "scripts": {
+    "start": "node ./server.js"
+  }
+}
